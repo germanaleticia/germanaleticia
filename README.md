@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Germana Grigório
 
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=germanaleticia&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
